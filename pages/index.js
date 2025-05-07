@@ -13,7 +13,7 @@ export default function Home() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(form),
     });
-    window.location.href = `https://wa.me/1XXXXXXXXXX?text=New lead on AddPropertyValue.com: ${form.name}, ${form.phone}, ${form.email}, ${form.address}`;
+    window.location.href = https://wa.me/1XXXXXXXXXX?text=New lead on AddPropertyValue.com: ${form.name}, ${form.phone}, ${form.email}, ${form.address};
   };
 
   return (
@@ -24,7 +24,7 @@ export default function Home() {
       </Head>
       <main style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '100vh', background: '#f7f7f7' }}>
         <div style={{ maxWidth: '500px', width: '100%', padding: '2rem', background: '#fff', boxShadow: '0 0 10px rgba(0,0,0,0.1)', borderRadius: '10px' }}>
-          <h1 style={{ fontSize: '1.8rem', marginBottom: '0.5rem' }}>Add Value to Your Home â€” Fast.</h1>
+          <h1 style={{ fontSize: '1.8rem', marginBottom: '0.5rem' }}>Add Value to Your Home — Fast.</h1>
           <p style={{ marginBottom: '1.5rem', fontSize: '1rem' }}>
             Get a <strong>Free Property Value Boost Plan</strong> + Inspection Tips to Protect Your Investment.
           </p>
