@@ -19,7 +19,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>Add Property Value</title>
+        <title>Add Property Value Test !!!!!!!!</title>
         <meta name="description" content="Boost your home's value with our free report and inspection tips." />
       </Head>
       <main style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', minHeight: '100vh', background: '#f7f7f7' }}>
