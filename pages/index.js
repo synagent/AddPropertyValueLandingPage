@@ -38,6 +38,8 @@ export default function Home() {
           <p style={{ marginTop: '1rem', fontSize: '0.9rem', color: '#555' }}>
             Licensed & Insured | Serving Homeowners in Your Area !!!!!!!!!!!!!!
           </p>
+          <p> Update test: It works now !!!!! </p>
+
         </div>
       </main>
     </>
