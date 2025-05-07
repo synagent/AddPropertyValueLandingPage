@@ -13,7 +13,7 @@ export default function Home() {
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify(form),
     });
-    window.location.href = https://wa.me/1XXXXXXXXXX?text=New lead on AddPropertyValue.com: ${form.name}, ${form.phone}, ${form.email}, ${form.address};
+    window.location.href = https://wa.me/17862360774?text=New lead on AddPropertyValue.com: ${form.name}, ${form.phone}, ${form.email}, ${form.address};
   };
 
   return (
